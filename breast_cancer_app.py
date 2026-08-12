@@ -131,9 +131,9 @@ st.markdown(
 st.markdown(
     """
     <div class="footer">
-    Spam Mail Detection System
+    Breast Cancer Detection System
     <br>
-    Developed By Agrima Saxena
+    Developed By Apurva Joshi 
     </div>
     """
     unsafe_allow_html=True
