@@ -124,10 +124,16 @@ with tab2:
     st.info("This model was trained on the classic Wisconsin Diagnostic Breast Cancer dataset, which contains digitized measurements from breast mass images.")
 st.markdown(
     """
+    # ============================================================
+# FOOTER
+# ============================================================
+
+st.markdown(
+    """
     <div class="footer">
-    Breast cancer Detection 
+    Spam Mail Detection System
     <br>
-    Developed By Apurva Joshi
+    Developed By Agrima Saxena
     </div>
     """,
     unsafe_allow_html=True
