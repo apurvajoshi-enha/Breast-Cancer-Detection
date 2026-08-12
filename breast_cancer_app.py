@@ -122,3 +122,13 @@ with tab2:
     - **Test Accuracy:** >95%
     """)
     st.info("This model was trained on the classic Wisconsin Diagnostic Breast Cancer dataset, which contains digitized measurements from breast mass images.")
+st.markdown(
+    """
+    <div class="footer">
+    Breast cancer Detection 
+    <br>
+    Developed By Apurva Joshi
+    </div>
+    """,
+    unsafe_allow_html=True
+)
