@@ -135,6 +135,6 @@ st.markdown(
     <br>
     Developed By Agrima Saxena
     </div>
-    """,
+    """
     unsafe_allow_html=True
 )
